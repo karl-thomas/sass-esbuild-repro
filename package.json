@@ -1,0 +1,15 @@
+{
+  "name": "sass-esbuild-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.12.6",
+    "esbuild-sass-plugin": "^1.4.3"
+  }
+}
